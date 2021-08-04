@@ -5,7 +5,7 @@
     <img src="https://abs-0.twimg.com/emoji/v2/svg/2764.svg" alt="Logo" width="80" height="80">
   </a>
 
-  <h1 align="center">GaBea Today</h1>
+  <h1 align="center">Jollian Today</h1>
 
   <p align="center">
     Contador de dias e de segundos do meu namoro
