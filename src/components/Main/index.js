@@ -12,7 +12,7 @@ import BaseLayout from '../BaseLayout';
 
 function Main() {
   const [currentDateTime, setCurrentDateTime] = useState(new Date());
-  const [firstDay] = useState(new Date(2020, 8, 2));
+  const [firstDay] = useState(new Date(2020, 7, 10));
   const [seconds, setSeconds] = useState(0);
   const [days, setDays] = useState(0);
   const [months, setMonths] = useState(0);
