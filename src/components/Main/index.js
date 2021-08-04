@@ -36,7 +36,7 @@ function Main() {
 
   return (
     <BaseLayout>
-      {dayOfMonth === 2 && <Mensiversary months={months} years={years} />}
+      {dayOfMonth === 10 && <Mensiversary months={months} years={years} />}
       <Content>
         <h1>
           <span>Hoje faz </span> <strong>{days} dias</strong>
