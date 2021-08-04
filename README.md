@@ -74,7 +74,7 @@ Distributed under the MIT License. See `LICENSE` for more information. -->
 
 ## Contact
 
-Gabriel - [@ezrealblindado](https://twitter.com/ezrealblindado) - gabrielrocha1997@gmail.com
+Eduardo - [@ellianthegreat](https://twitter.com/ElliantheGreat) - ewca1970@gmail.com
 
 <!-- Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name) -->
 
